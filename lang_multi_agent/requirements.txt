@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-core
+langchain-groq
+langchain-google-genai
+langchain-cohere
+langgraph
+langchain-tavily
+python-dotenv
+e2b_code_interpreter
+requests
