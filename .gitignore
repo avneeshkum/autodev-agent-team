@@ -1,0 +1,26 @@
+# Environment Variables (Secrets)
+# This file contains your secret API keys and should never be made public.
+.env
+
+# Python Cache and Compiled Files
+# These are temporary files created by Python.
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated Output from Agents
+# All work created by your AI agents.
+output/
+
+# Virtual Environment Folders
+# If you use a virtual environment.
+venv/
+.venv/
+env/
+.env/
+
+# IDE/Editor Specific Files
+# Personal settings for your code editor.
+.vscode/
+.idea/
