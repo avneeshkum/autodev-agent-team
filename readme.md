@@ -71,7 +71,7 @@ The project operates on a sequential, managed workflow orchestrated by a Supervi
 * An account for each of the required services (Groq, Google AI, Cohere, E2B, Tavily)
 
 ### 2. Clone the Repository
-git clone https://github.com/your-username/autodev-agent-team.git
+git clone https://github.com/avneeshkum/autodev-agent-team.git
 cd autodev-agent-team
 
 
@@ -127,3 +127,4 @@ python backend.py
 * **Empower the QA Agent:** Provide the QA Agent with the `run_python_code` tool so it can not only write tests but also execute them and report the results.
 
 * **Stateful Memory:** Integrate a persistent checkpointer (like `SQLite` or `Redis`) to allow the workflow to be resumed across sessions.
+
